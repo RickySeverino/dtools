@@ -19,7 +19,7 @@ ul.nav > li > a:hover {
     color: #212529;
 }
 
-a { color: #FFFFFF; }
+.a-white { color: #FFFFFF; }
 
 .frame {
     width: 100% !important;
@@ -30,4 +30,21 @@ a { color: #FFFFFF; }
     display: block;
     margin-left: auto;
     margin-right: auto;
-  }
+}
+
+.header {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.wiki-list {
+    padding: 50px;
+}
+
+.li-top-padding {
+    padding-top: 10px;;
+}
+
+.category-title {
+    padding-top: 30px;
+}
