@@ -1,0 +1,33 @@
+body, html {
+    width: 100%; 
+    height: 100%; 
+    margin: 0; 
+    padding: 0
+}
+
+.navbar-brand {
+    font-size: 20px !important;
+}
+
+ul.nav > li > a:hover {
+	background-color: #4a525c;
+	color: #FFFFFF;
+	border-color: transparent !important;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+    color: #212529;
+}
+
+a { color: #FFFFFF; }
+
+.frame {
+    width: 100% !important;
+    height: calc(100vh - 77px) !important;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
