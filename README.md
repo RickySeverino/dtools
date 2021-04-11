@@ -1,4 +1,4 @@
 # DTools
 A collection of online deobfuscation tools.
 
-Website: https://rickyseverino.github.io/dtools/
+Website: https://ry-sev.github.io/dtools/
